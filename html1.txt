@@ -1,0 +1,53 @@
+<!DOCTYPE  >
+<html lang="en">
+    <head>
+        <meta cahrset-"UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Personal Portfolio</title>
+        <link rel="stylesheet" href="style.css"/>
+       
+        </hea>
+        <body>
+            <nav id="destop nav">
+                <div class="logo">Onwaba Nobhitywana</div>
+                <div>
+                    <ul class="nav-links">
+                        <li><a href="#about">ABOUT</a></li>
+                            <li><a href="#experience">EXPERIENCE</a></li>
+                                <li><a href="#projects">PROJECTS</a></li>
+                                    <li><a href="#contact">CONTACT</a></li>
+                                    </ul>
+                                    </div>
+                                </nav>
+                                <section id="profile">
+                                    <div class="section__pic-container">
+                                        <img src="" alt="my profile piture" />
+                                    </div>
+                                    <div class="section__text">
+                                    <p class="section__text__p1"></p>WELCOME</P>
+                                    <h1 class="title">Onwaba Nobhitywana</h>
+                                        <p class="section__text__p2>"FULLSTACK DEVELOPER</P>
+                                            <div class="btn-container">
+                                                
+                                                <button class="btn btn-color-2"
+                                                onclick="window.open()"
+                                                >
+                                                DOWNLOAD CV
+                                            </button>
+                                            <button class="btn btn-color-1"
+                                                onclick="window.open()"
+                                                >
+                                                DOWNLOAD CV
+                                            </button>
+
+                                    </div>
+                                </section>
+
+
+
+
+                                
+
+
+        </body>

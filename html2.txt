@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    
+    <link rel="stylesheet" href="style.css"/>
+   
+</head>
+<body>
+
+            <nav id="destop nav">
+                <div class="logo">Onwaba Nobhitywana</div>
+                <div>
+                    <ul class="nav-links">
+                        <li><a href="#about">ABOUT</a></li>
+                            <li><a href="#experience">EXPERIENCE</a></li>
+                                <li><a href="#projects">PROJECTS</a></li>
+                                    <li><a href="#contact">CONTACT</a></li>
+                                    </ul>
+                                    </div>
+                                </nav>
+                                <section id="profile">
+                                    <div class="section__pic-container">
+                                        <img src="pp.jfif" alt="my profile piture" width="300" height="300" />
+                                    </div>
+                                    <div class="section__text">
+                                    <p class="section__text__p1"></p>WELCOME</P>
+                                    <h1 class="title">Onwaba Nobhitywana</h>
+                                        <p class="section__text__p2>"FULLSTACK DEVELOPER</p>
+                                            <div class="btn-container">
+                                                
+                                                <button class="btn btn-color-2"
+                                                onclick="window.open()"
+                                                >
+                                                DOWNLOAD CV
+                                            </button>
+                                           <!-- <button class="btn btn-color-1"
+                                                onclick="window.open()"
+                                                >
+                                                DOWNLOAD CV
+                                            </button>-->
+
+                                        </div id="SOCIALS">
+                                        <img src="linked.jfif" alt="LinkedIn Profile"
+                                        class="icon" onclick="location.href='https://linkedin.com/'"/>
+
+                                        <img src="git.jfif" alt="LinkedIn Profile"
+                                        class="icon" onclick="location.href='https://github.com/'"/>
+
+                                        
+
+
+
+                                    </div>
+                                </section>
+
+
+</body>
+</html>
